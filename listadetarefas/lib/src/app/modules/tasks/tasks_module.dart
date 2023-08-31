@@ -6,6 +6,6 @@ class TasksModule extends Module {
   List<Bind> get binds => [];
   @override
   List<ModularRoute> get routes => [
-        ChildRoute('/', child: (_, __) => const TasksPage()),
+        ChildRoute('/', child: (_, __) => TasksPage()),
       ];
 }

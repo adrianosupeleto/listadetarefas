@@ -13,7 +13,7 @@ class AppWidget extends StatelessWidget {
       routerDelegate: Modular.routerDelegate,
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.deepPurple,
         appBarTheme: Theme.of(context).appBarTheme.copyWith(
               systemOverlayStyle: const SystemUiOverlayStyle(
                 statusBarColor: Colors.transparent,

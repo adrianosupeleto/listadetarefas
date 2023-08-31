@@ -22,7 +22,7 @@ class _SplashPageState extends State<SplashPage> {
     return Scaffold(
       body: Container(
         width: MediaQuery.of(context).size.height,
-        color: Colors.blue,
+        color: Colors.deepPurple,
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: const [
