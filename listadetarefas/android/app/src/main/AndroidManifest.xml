@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.listadetarefas">
+    package="adriano.supeleto.listadetarefas">
    <application
         android:label="Lista de Tarefas"
         android:name="${applicationName}"

@@ -1,4 +1,4 @@
-package com.example.listadetarefas
+package adriano.supeleto.listadetarefas
 
 import io.flutter.embedding.android.FlutterActivity
 
